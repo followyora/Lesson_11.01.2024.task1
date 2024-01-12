@@ -21,7 +21,7 @@ public class Main {
 
     }
 
-
+gi
     private static List<?> createInstances(List<Class<?>> listClasses) {
         return listClasses.stream()
                 .map(c -> {
